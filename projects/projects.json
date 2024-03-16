@@ -1,0 +1,85 @@
+[
+  {
+    "name": "My Portfolio",
+    "desc": "You are already here! Scroll Down to view my projects and know more about me.",
+    "image": "port-1.1",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "DeveloperTimes",
+    "desc": "Developed Developer Times, a React.js news app with real-time updates, tailored sections, responsive design, and user-centric features.",
+    "image": "port-7",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1OGhPqYKrxnlX6NYLMe2ghNw617GS2EtQ/view?usp=sharing",
+      "code": "https://github.com/Shanya1234/DeveloperTimes"
+    }
+  },
+  {
+    "name": "TextUtils ",
+    "desc": "Implemented a robust suite of features, empowering users to perform diverse text operations. ",
+    "image": "port-9",
+    "category": "mern",
+    "links": {
+      "view": "https://text-utils-pi-plum.vercel.app/",
+      "code": "https://github.com/Shanya1234/TextUtils/tree/main/TextUtils-main"
+    }
+  },
+  {
+    "name": "REDSTORE - a fashion hub",
+    "desc": "Conceptualized and developed fashion hub website, showcasing advanced proficiency in HTML, CSS, and JavaScript.",
+    "image": "port-11",
+    "category": "web",
+    "links": {
+      "view": "https://redstore-coj4.vercel.app/index.html",
+      "code": "https://github.com/Shanya1234/Redstore-fashion_hub/tree/main/REDSTORE-main/redstone"
+    }
+  },
+  
+  
+  
+  {
+    "name": "KrishiCare",
+    "desc": "A Flutter app with Firebase OTP authentication, GetX for state management, and features for agricultural rental, calculation, and commerce.",
+    "image": "port-6",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Shanya1234/Krishicare-android/upload",
+      "code": "https://github.com/Shanya1234/Krishicare-android/upload"
+    }
+  },
+  
+  
+  
+  {
+    "name": "iNoteBook",
+    "desc": "A MERN stack project for secure note storage with JWT authentication and bcrypt.js encryption..",
+    "image": "port-10",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Shanya1234/iNotebook/tree/main/inotebook-master",
+      "code": "https://github.com/Shanya1234/iNotebook/tree/main/inotebook-master"
+    }
+  },
+  {
+    "name": "Whatsapp Clone",
+    "desc": "A Flutter-based WhatsApp clone with Firebase integration, enabling secure communication through various media formats and real-time features. ",
+    "image": "port-5",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Shanya1234/Whatsapp-android",
+      "code": "https://github.com/Shanya1234/Whatsapp-android"
+    }
+  }
+  
+  
+ 
+  
+  
+  
+]
